@@ -12,5 +12,6 @@ public class BaseTest {
         System.out.println("测试用idea上传至github");
 	System.out.println("测试git第二次push");
 	System.out.println("测试git第三次push");
+	System.out.println("测试git第四次push");
     }
 }
